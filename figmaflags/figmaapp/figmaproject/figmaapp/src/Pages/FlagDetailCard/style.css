@@ -1,0 +1,14 @@
+.detailCard{
+
+    margin: 100px auto;
+    display: flex;
+    width: 60%;
+    padding: 70px;
+    font-size: large;
+    background-color: #c0e5f73a;
+    box-shadow: 0px 2px 9px 2px #0000000e;
+    line-height: 40px;
+}
+.main{
+    color: red;
+}
